@@ -1,0 +1,25 @@
+{
+  "ActiveTargetSystem": "WSL: Ubuntu",
+  "DevContainersInfoBarHidden": true,
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ],
+    "WSL: Ubuntu": [
+      "out\\build\\WSL-GCC-Debug",
+      "out\\install\\WSL-GCC-Debug",
+      "out\\build\\WSL-GCC-Release",
+      "out\\install\\WSL-GCC-Release"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Business",
+    "\\Business\\PuzzleGame",
+    "\\Business\\PuzzleGame\\HuaRongDao",
+    "\\Business\\PuzzleGame\\TuiXiangZi"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
